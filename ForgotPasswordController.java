@@ -33,7 +33,7 @@ import classess.NewUser;
 /**
  * FXML Controller class
  *
- * @author ryanhoffman
+ * @author User
  */
 public class ForgotPasswordController implements Initializable {
 

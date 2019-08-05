@@ -1,11 +1,6 @@
 package classess;
-/**
-*  @Course: SDEV 250 ~ Java Programming I
-*  @Author Name: Ryan Hoffman
-*  @Assignment Name: classess
-*  @Date: Apr 7, 2019
-*  @Subclass Mail Description:
-*/
+
+
 //Imports
 import java.sql.Connection;
 import javax.mail.*;

@@ -29,7 +29,7 @@ import javafx.scene.control.Alert;
 
 /**
  *
- * @author Matt, Ryan, Jerome, Steven
+ * @author User
  */
 public class FXMLDocumentController implements Initializable {
 

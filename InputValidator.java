@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 /**
  *
- * @author stevenhernandez
+ * @author User
  * Description:  This is a helper class that will be used to validate input from
  * the user when first creating an account(New User).  This might be a handy class
  * to have throughout the entire program's development.

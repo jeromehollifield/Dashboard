@@ -3,7 +3,7 @@ Method for database connection (jdbc)
 JDBC driver converts the Java data type to the appropriate 
 JDBC type, before sending it to the database
 Displays DB Connected or DB Failed at the end of the sign up
-Replace DriverURL, DriverUSERNAME, and DriverPASSWORD when connecting to other databases
+Replace host, userName, and password when connecting to other databases
  */
 package classess;
 

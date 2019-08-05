@@ -44,7 +44,6 @@ import javax.imageio.ImageIO;
 /**
  * FXML Controller class
  *
- * @author ryanhoffman
  */
 public class ViewGraphController implements Initializable {
   

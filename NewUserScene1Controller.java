@@ -33,7 +33,7 @@ import classess.Connectivity;
 /**
  * FXML Controller class
  *
- * @author stevenhernandez
+ * @author User
  */
 public class NewUserScene1Controller implements Initializable{
     

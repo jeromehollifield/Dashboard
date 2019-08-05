@@ -4,13 +4,6 @@ JDBC driver converts the Java data type to the appropriate
 JDBC type, before sending it to the database
 Displays DB Connected or DB Failed at the end of the sign up
 Replace DriverURL, DriverUSERNAME, and DriverPASSWORD when connecting to other databases
-PROGRESS:
-Connects to database
-Displays tables
-WHATS NEXT?
-Send data to database
-Sources:
-https://www.tutorialspoint.com/jdbc/jdbc-sample-code.htm
  */
 package classess;
 
@@ -30,7 +23,7 @@ import javafx.scene.control.Alert.AlertType;
 
 /**
  *
- * @author Rome
+ * @author User
  */
 public class Connectivity {
 

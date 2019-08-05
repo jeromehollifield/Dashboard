@@ -10,7 +10,7 @@ import java.util.Map;
  */
 /**
  *
- * @author stevenhernandez Description: This class is going to be used to hold
+ * @author User Description: This class is going to be used to hold
  * data on the new user Once all the data has been set for that object, a method
  * within this class can be used to add the new user to the database
  */

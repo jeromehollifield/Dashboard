@@ -15,10 +15,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 
-/**
- *
- * @author stevenhernandez
- */
+
 public class STTrackerApp extends Application {
     
     public static void main(String[] args) {

@@ -19,7 +19,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author ryanhoffman
+ * @author User
  */
 public class ForgotPassword2Controller implements Initializable {
 
